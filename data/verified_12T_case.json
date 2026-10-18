@@ -1,0 +1,1333 @@
+{
+  "source_file": "google_drive/12T.pdf",
+  "source_sha256": "369f1c1414aa88af836745e55ae42b504536d70b2c3ec44ebf2c3d76bcc858b4",
+  "source_page": 15,
+  "source_school_year": "1404-1405",
+  "target_exam": "1 آبان 1404، پنجشنبه",
+  "status": "manual transcription of study rows checked against full-page render; not a universal template",
+  "legend": {
+    "L": "مطالعه جدید",
+    "T": "تست",
+    "R": "مطالعه مروری بودجه قبلی",
+    "S": "مدرسه",
+    "H": "مرور همان روز مدرسه",
+    "F": "انعطاف برنامه"
+  },
+  "slot_minutes": 90,
+  "slots": [
+    [
+      "07:00",
+      "08:30"
+    ],
+    [
+      "08:45",
+      "10:15"
+    ],
+    [
+      "10:30",
+      "12:00"
+    ],
+    [
+      "12:15",
+      "13:45"
+    ],
+    [
+      "15:00",
+      "16:30"
+    ],
+    [
+      "16:45",
+      "18:15"
+    ],
+    [
+      "18:30",
+      "20:00"
+    ],
+    [
+      "20:15",
+      "21:45"
+    ],
+    [
+      "22:00",
+      "23:30"
+    ]
+  ],
+  "days": [
+    {
+      "source_day": "18 مهر",
+      "weekday": "جمعه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 1
+            }
+          ],
+          "manual_transcription": "L bio10/1"
+        },
+        {
+          "column": 1,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "bio12",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "L bio12/3"
+        },
+        {
+          "column": 2,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "earth11",
+              "unit": 3
+            },
+            {
+              "subject": "earth11",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "L earth11/3,4"
+        },
+        {
+          "column": 3,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 1
+            }
+          ],
+          "manual_transcription": "L phys10/1"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "L phys10/2"
+        },
+        {
+          "column": 5,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 1
+            },
+            {
+              "subject": "phys10",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "T phys10/1,2"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "math10",
+              "unit": 1
+            }
+          ],
+          "manual_transcription": "L math10/1"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "math10",
+              "unit": 1
+            }
+          ],
+          "manual_transcription": "T math10/1"
+        }
+      ]
+    },
+    {
+      "source_day": "19 مهر",
+      "weekday": "شنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "L chem10/2"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "L chem10/3"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 2
+            },
+            {
+              "subject": "chem10",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "T chem10/2,3"
+        },
+        {
+          "column": 8,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "L bio10/2"
+        }
+      ]
+    },
+    {
+      "source_day": "20 مهر",
+      "weekday": "یکشنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 1
+            },
+            {
+              "subject": "bio12",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "T bio10/1 bio12/3"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys12",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "L phys12/3"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "phys12",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "T phys12/3"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "earth11",
+              "unit": 3
+            },
+            {
+              "subject": "earth11",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "T earth11/3,4"
+        }
+      ]
+    },
+    {
+      "source_day": "21 مهر",
+      "weekday": "دوشنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "R",
+          "units": [
+            {
+              "subject": "chem12",
+              "unit": 1
+            },
+            {
+              "subject": "chem12",
+              "unit": 2
+            },
+            {
+              "subject": "chem12",
+              "unit": 3
+            },
+            {
+              "subject": "chem12",
+              "unit": 4
+            },
+            {
+              "subject": "chem12",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "R chem12/1,2,3,4,5"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "math10",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "L math10/2"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "math10",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "T math10/2"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "T bio10/2"
+        }
+      ]
+    },
+    {
+      "source_day": "22 مهر",
+      "weekday": "سه‌شنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "L bio10/3"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "L bio10/4"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "L phys10/3"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "T phys10/3"
+        }
+      ]
+    },
+    {
+      "source_day": "23 مهر",
+      "weekday": "چهارشنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "R",
+          "units": [
+            {
+              "subject": "bio12",
+              "unit": 1
+            },
+            {
+              "subject": "bio12",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "R bio12/1,2"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "math10",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "L math10/3"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "math11",
+              "unit": 1
+            }
+          ],
+          "manual_transcription": "L math11/1"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "math10",
+              "unit": 3
+            },
+            {
+              "subject": "math11",
+              "unit": 1
+            }
+          ],
+          "manual_transcription": "T math10/3 math11/1"
+        }
+      ]
+    },
+    {
+      "source_day": "24 مهر",
+      "weekday": "پنجشنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "L chem10/4"
+        },
+        {
+          "column": 1,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "L chem10/5"
+        },
+        {
+          "column": 2,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 4
+            },
+            {
+              "subject": "chem10",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "T chem10/4,5"
+        },
+        {
+          "column": 3,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "L bio10/5"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "L phys10/4"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "L phys10/5"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 4
+            },
+            {
+              "subject": "phys10",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "T phys10/4,5"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 3
+            },
+            {
+              "subject": "bio10",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "T bio10/3,4"
+        }
+      ]
+    },
+    {
+      "source_day": "25 مهر",
+      "weekday": "جمعه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "R",
+          "units": [
+            {
+              "subject": "math10",
+              "unit": 4
+            },
+            {
+              "subject": "math10",
+              "unit": 5
+            },
+            {
+              "subject": "math10",
+              "unit": 6
+            }
+          ],
+          "manual_transcription": "R math10/4,5,6"
+        },
+        {
+          "column": 1,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 6
+            }
+          ],
+          "manual_transcription": "L phys10/6"
+        },
+        {
+          "column": 2,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 7
+            }
+          ],
+          "manual_transcription": "L phys10/7"
+        },
+        {
+          "column": 3,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 6
+            },
+            {
+              "subject": "phys10",
+              "unit": 7
+            }
+          ],
+          "manual_transcription": "T phys10/6,7"
+        },
+        {
+          "column": 4,
+          "kind": "R",
+          "units": [
+            {
+              "subject": "earth11",
+              "unit": 1
+            },
+            {
+              "subject": "earth11",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "R earth11/1,2"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "chem12",
+              "unit": 6
+            }
+          ],
+          "manual_transcription": "L chem12/6"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "chem12",
+              "unit": 7
+            }
+          ],
+          "manual_transcription": "L chem12/7"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "chem12",
+              "unit": 6
+            },
+            {
+              "subject": "chem12",
+              "unit": 7
+            }
+          ],
+          "manual_transcription": "T chem12/6,7"
+        }
+      ]
+    },
+    {
+      "source_day": "26 مهر",
+      "weekday": "شنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "math11",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "L math11/4"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "math11",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "L math11/5"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "math11",
+              "unit": 4
+            },
+            {
+              "subject": "math11",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "T math11/4,5"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "bio10",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "T bio10/5"
+        }
+      ]
+    },
+    {
+      "source_day": "27 مهر",
+      "weekday": "یکشنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 8
+            }
+          ],
+          "manual_transcription": "L phys10/8"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 9
+            }
+          ],
+          "manual_transcription": "L phys10/9"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 8
+            },
+            {
+              "subject": "phys10",
+              "unit": 9
+            }
+          ],
+          "manual_transcription": "T phys10/8,9"
+        },
+        {
+          "column": 8,
+          "kind": "R",
+          "units": [
+            {
+              "subject": "math12",
+              "unit": 1
+            },
+            {
+              "subject": "math12",
+              "unit": 2
+            },
+            {
+              "subject": "math12",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "R math12/1,2,3"
+        }
+      ]
+    },
+    {
+      "source_day": "28 مهر",
+      "weekday": "دوشنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 6
+            }
+          ],
+          "manual_transcription": "L chem10/6"
+        },
+        {
+          "column": 5,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 6
+            },
+            {
+              "subject": "chem10",
+              "unit": 7
+            }
+          ],
+          "manual_transcription": "T chem10/6,7"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "R",
+          "units": [
+            {
+              "subject": "chem10",
+              "unit": 1
+            }
+          ],
+          "manual_transcription": "R chem10/1"
+        },
+        {
+          "column": 8,
+          "kind": "R",
+          "units": [
+            {
+              "subject": "phys12",
+              "unit": 1
+            },
+            {
+              "subject": "phys12",
+              "unit": 2
+            }
+          ],
+          "manual_transcription": "R phys12/1,2"
+        }
+      ]
+    },
+    {
+      "source_day": "29 مهر",
+      "weekday": "سه‌شنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "math12",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "L math12/4"
+        },
+        {
+          "column": 5,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "math12",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "L math12/5"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "math12",
+              "unit": 4
+            },
+            {
+              "subject": "math12",
+              "unit": 5
+            }
+          ],
+          "manual_transcription": "T math12/4,5"
+        },
+        {
+          "column": 8,
+          "kind": "R",
+          "units": [
+            {
+              "subject": "math11",
+              "unit": 2
+            },
+            {
+              "subject": "math11",
+              "unit": 3
+            }
+          ],
+          "manual_transcription": "R math11/2,3"
+        }
+      ]
+    },
+    {
+      "source_day": "30 مهر",
+      "weekday": "چهارشنبه",
+      "cells": [
+        {
+          "column": 0,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 1,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 2,
+          "kind": "S",
+          "units": [],
+          "manual_transcription": "S"
+        },
+        {
+          "column": 3,
+          "kind": "H",
+          "units": [],
+          "manual_transcription": "H"
+        },
+        {
+          "column": 4,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 10
+            }
+          ],
+          "manual_transcription": "L phys10/10"
+        },
+        {
+          "column": 5,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "phys10",
+              "unit": 10
+            }
+          ],
+          "manual_transcription": "T phys10/10"
+        },
+        {
+          "column": 6,
+          "kind": "F",
+          "units": [],
+          "manual_transcription": "F"
+        },
+        {
+          "column": 7,
+          "kind": "L",
+          "units": [
+            {
+              "subject": "phys12",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "L phys12/4"
+        },
+        {
+          "column": 8,
+          "kind": "T",
+          "units": [
+            {
+              "subject": "phys12",
+              "unit": 4
+            }
+          ],
+          "manual_transcription": "T phys12/4"
+        }
+      ]
+    }
+  ],
+  "exam_row": "1 آبان: آزمون ماز و تحلیل؛ خانه ادغام‌شده، خارج از شمارش 117خانهٔ پیش از آزمون",
+  "counts": {
+    "L": 34,
+    "T": 22,
+    "F": 13,
+    "S": 30,
+    "H": 10,
+    "R": 8
+  },
+  "subject_box_counts": {
+    "bio10": {
+      "L": 5,
+      "T": 3
+    },
+    "bio12": {
+      "L": 1,
+      "R": 1
+    },
+    "earth11": {
+      "L": 1,
+      "T": 1,
+      "R": 1
+    },
+    "phys10": {
+      "L": 10,
+      "T": 6
+    },
+    "math10": {
+      "L": 3,
+      "T": 2,
+      "R": 1
+    },
+    "chem10": {
+      "L": 5,
+      "T": 3,
+      "R": 1
+    },
+    "bio10+bio12": {
+      "T": 1
+    },
+    "phys12": {
+      "L": 2,
+      "T": 2,
+      "R": 1
+    },
+    "chem12": {
+      "R": 1,
+      "L": 2,
+      "T": 1
+    },
+    "math11": {
+      "L": 3,
+      "T": 1,
+      "R": 1
+    },
+    "math10+math11": {
+      "T": 1
+    },
+    "math12": {
+      "R": 1,
+      "L": 2,
+      "T": 1
+    }
+  },
+  "anomalies": [
+    "chem10/7 has a test box but no explicit learning label on p15; do not fabricate an extra source box. p14 lists it among new units."
+  ],
+  "note": "The annual strategic calendar 1405-1406 is a DIFFERENT year; use for budget comparison, never copy weekdays across years."
+}

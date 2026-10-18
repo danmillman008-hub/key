@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-18",
+  "sources": [
+    {
+      "file": "google_drive/12T.pdf",
+      "drive_file_id": "1UNpzPaEtcKiQCtHenJXWe3Adu7YXUsSE",
+      "sha256": "369f1c1414aa88af836745e55ae42b504536d70b2c3ec44ebf2c3d76bcc858b4",
+      "review_scope": "p12 full-page rule verification; p15 full-page and all study-row cells manually transcribed"
+    },
+    {
+      "file": "google_drive/nnn1pTQT401yrhukz2t0zJLr3KNuRZVJwGoorjHP.pdf",
+      "drive_file_id": "1NLhRx-u-d3I2DiOGixzBNDsyqF_PFkZS",
+      "sha256": "c9ecf7a0fce8afc87c2c6062dbfe9d2988911cd0a9945baf7a65a22938f78050",
+      "review_scope": "native extraction all9pages; p5 full-page visual inspection; annual timetable and 17Mehr/1Aban comparison"
+    },
+    {
+      "file": "/tmp/arena-coding-uploads/برنامه آزمون ۰۱ آبان ۱۴۰۵ (7).pdf",
+      "drive_file_id": null,
+      "sha256": "70e8a5008c5f56ffed17c0546b99f82da2d04b264941d6ba7a9154ad3fedfbe7",
+      "review_scope": "native extraction all4pages; full-page visual inspection p1; user formula comparison only"
+    }
+  ]
+}
