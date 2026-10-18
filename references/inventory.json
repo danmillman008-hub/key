@@ -1,0 +1,100 @@
+[
+  {
+    "file": "@BankBookkonkor (6).pdf",
+    "pages": 29,
+    "sha256": "49b13be8d9aa2648ab80857d2b921bedd1b3356ac8d5bf5af7b45f147c10f02a",
+    "text_chars": 600,
+    "status": "ocr_all_29_pages; sampled_reading_p2_p3; tables_unverified"
+  },
+  {
+    "file": "_⁨11تجربی_برنامه_مطالعاتی_3_مرداد_تا_16مرداد⁩.pdf",
+    "pages": 4,
+    "sha256": "98a80a96eb27a49193e327aeac37fae43fbec3f31ddd43da664009e246880024",
+    "text_chars": 6080,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "10t_برنامه_مطالعاتی_+_بودجه_آزمون_1_اذر_ماز.pdf",
+    "pages": 12,
+    "sha256": "d463d1eab75fc4324da8bd7c2ce4d8e56ffe6f4fd2a0c17dcbd664d1f664e255",
+    "text_chars": 10284,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "12t_برنامه_مطالعاتی_+_بودجه_آزمون_20_دی_ماز.pdf",
+    "pages": 9,
+    "sha256": "0563381f0bb6ed82a6bd1d71c297107ea6fefd3d46e5bd2ee883f4d6c5bd40ba",
+    "text_chars": 12682,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "12تجربی_برنامه_مطالعاتی_1_آبان_تا_15_آبان.pdf",
+    "pages": 33,
+    "sha256": "12f0a987881223b9c4cb3834281d4208dfdd6e636a65bdb03170a894edd061ee",
+    "text_chars": 47886,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "@BankBookkonkor (3).pdf",
+    "pages": 27,
+    "sha256": "6f8afe0032b96b5ec89f21b49042aa5ee15465a31e89e2b73e9ce1c603f5f395",
+    "text_chars": 26886,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "11تجربی_برنامه_مطالعاتی_1_آبان_تا_15_آبان.pdf",
+    "pages": 33,
+    "sha256": "be48ccda8272d2646db0ebfea6d23ad7d13abb342aabb76637eaf897b24d56e8",
+    "text_chars": 44663,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "۱۰۰ روز برای کنکور.pdf",
+    "pages": 49,
+    "sha256": "e1d090fb2baa56fcb4597b5def35b1d9f0be285bcb88f75d62416a87cd709d82",
+    "text_chars": 25658,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "۸۰+۲۰ روز برای کنکور و نهایی.pdf",
+    "pages": 44,
+    "sha256": "daaa53ce7acbc64949b6e89f04302c00e744932033cccaa2c1678592064c0f26",
+    "text_chars": 22625,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "10تجربی_برنامه_مطالعاتی_1_آبان_تا_15_آبان.pdf",
+    "pages": 33,
+    "sha256": "eac40065b8c8e9346d81a4ad5a2fcc1997c085c2fa843fe0e52111f756b8c38e",
+    "text_chars": 44561,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "12تجربی_برنامه_مطالعاتی_11مهر_تا_17مهر.pdf",
+    "pages": 7,
+    "sha256": "ad3dff5052d92f8a02b6f79b2ee1e201b8d40a4b6d62dc8aa2715003a3eb1a90",
+    "text_chars": 12838,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "11تجربی_برنامه_مطالعاتی_7_شهریور_تا_13_شهریور.pdf",
+    "pages": 5,
+    "sha256": "de4f09fcd5f80a0daa607cf8eff321612dc77c3f63922b9a70a7f317ce2573de",
+    "text_chars": 9808,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "12تجربی_برنامه_مطالعاتی_16مرداد_تا_2_شهریور.pdf",
+    "pages": 6,
+    "sha256": "149f5dd9be7b82cd60045747376702d602682fc82e2af99f0128c86db4c0927e",
+    "text_chars": 10116,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  },
+  {
+    "file": "12تجربی_برنامه_مطالعاتی_29_آبان_تا_13_آذر.pdf",
+    "pages": 37,
+    "sha256": "2ac864866074ec074e202df25a4513008ff543069c9972940f2ef127948226a4",
+    "text_chars": 55658,
+    "status": "text_extracted; review_scope_in_docs/EVIDENCE.md"
+  }
+]

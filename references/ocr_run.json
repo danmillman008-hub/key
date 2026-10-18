@@ -1,0 +1,9 @@
+{
+  "method": "PyMuPDF render 1.7x; Tesseract.js LSTM fas; pages 1-29",
+  "model_repo": "tesseract-ocr/tessdata_fast",
+  "model_path": "fas.traineddata",
+  "model_sha256": "db1c0a91208aff00d3cf1ed2c1d23f76419afd5f024688b4f71adc3f2ce4a505",
+  "tesseract_js_version": "7.0.0",
+  "purpose": "internal reading; not a deliverable transcription",
+  "review": "OCR all pages; semantic sampled reading p2-3, no validated numeric tables"
+}

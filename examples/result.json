@@ -1,0 +1,112 @@
+{
+  "status": "draft_complete",
+  "method": "PROPOSED greedy scheduler; not a proof of feasibility or optimality",
+  "tasks": [
+    {
+      "id": "math-learn",
+      "subject": "ریاضی",
+      "grade": 11,
+      "topic": "نمونهٔ فرضی: تابع",
+      "detail": "درسنامه و حل مثال پایه",
+      "duration_minutes": 75,
+      "tests": 0,
+      "priority": 1,
+      "energy": 2,
+      "provenance": "PROPOSED",
+      "date": "2026-10-18",
+      "start": "15:00",
+      "end": "16:15",
+      "hours": 1.25
+    },
+    {
+      "id": "math-test",
+      "subject": "ریاضی",
+      "grade": 11,
+      "topic": "همان مبحث تابع",
+      "detail": "حل و تحلیل بلافاصله بعد آموزش در صورت ظرفیت؛ تعداد پس از تشخیص سرعت",
+      "duration_minutes": 75,
+      "tests": null,
+      "after": [
+        "math-learn"
+      ],
+      "prefer_adjacent": true,
+      "priority": 1,
+      "energy": 2,
+      "provenance": "PROPOSED",
+      "date": "2026-10-18",
+      "start": "16:30",
+      "end": "17:45",
+      "hours": 1.25
+    },
+    {
+      "id": "bio-learn",
+      "subject": "زیست یازدهم",
+      "grade": 11,
+      "topic": "لقمهٔ فرضی: یاخته‌های بافت عصبی",
+      "detail": "مطالعه و توضیح شکل از حافظه؛ صفحات پس از تطبیق چاپ",
+      "duration_minutes": 75,
+      "tests": 0,
+      "priority": 2,
+      "energy": 3,
+      "provenance": "PROPOSED",
+      "source": "M2 PDF p2; illustrative topic only",
+      "date": "2026-10-19",
+      "start": "15:00",
+      "end": "16:15",
+      "hours": 1.25
+    },
+    {
+      "id": "bio-test",
+      "subject": "زیست یازدهم",
+      "grade": 11,
+      "topic": "همان لقمهٔ فرضی",
+      "detail": "بازیابی + تست آموزشی و تحلیل؛ ۵ دقیقه بازیابی و ۳٫۵ دقیقه حل و تحلیل هر تست",
+      "duration_minutes": 75,
+      "tests": 20,
+      "after": [
+        "bio-learn"
+      ],
+      "min_gap_days": 2,
+      "priority": 2,
+      "energy": 2,
+      "provenance": "PROPOSED",
+      "source": "M1 PDF p9; F3 calibrated rates are synthetic",
+      "date": "2026-10-21",
+      "start": "15:00",
+      "end": "16:15",
+      "hours": 1.25
+    }
+  ],
+  "unscheduled": [],
+  "days": [
+    {
+      "date": "2026-10-18",
+      "free_minutes": 270,
+      "reserved_minutes": 30,
+      "scheduled_minutes": 150
+    },
+    {
+      "date": "2026-10-19",
+      "free_minutes": 270,
+      "reserved_minutes": 30,
+      "scheduled_minutes": 75
+    },
+    {
+      "date": "2026-10-20",
+      "free_minutes": 270,
+      "reserved_minutes": 30,
+      "scheduled_minutes": 0
+    },
+    {
+      "date": "2026-10-21",
+      "free_minutes": 270,
+      "reserved_minutes": 30,
+      "scheduled_minutes": 75
+    }
+  ],
+  "totals": {
+    "study_minutes": 300,
+    "known_tests": 20,
+    "unknown_test_boxes": 1
+  }
+}

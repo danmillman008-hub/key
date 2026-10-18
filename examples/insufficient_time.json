@@ -1,0 +1,149 @@
+{
+  "notice": "مثال مصنوعی، نه بودجهٔ رسمی؛ تاریخ‌ها میلادی و ساعت‌ها محلی دانش‌آموزند.",
+  "student": {
+    "grade": 11,
+    "track": "experimental",
+    "status": "school",
+    "sleep": "23:00–07:00; protected by awake_windows",
+    "exam_date_status": "synthetic"
+  },
+  "max_block_minutes": 75,
+  "break_minutes": 15,
+  "days": [
+    {
+      "date": "2026-10-18",
+      "awake_windows": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ],
+      "blocked": [
+        [
+          "07:00",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "20:00"
+        ],
+        [
+          "21:30",
+          "23:00"
+        ]
+      ],
+      "reserve_minutes": 30,
+      "energy": 2
+    },
+    {
+      "date": "2026-10-19",
+      "awake_windows": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ],
+      "blocked": [
+        [
+          "07:00",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "20:00"
+        ],
+        [
+          "21:30",
+          "23:00"
+        ]
+      ],
+      "reserve_minutes": 30,
+      "energy": 2
+    },
+    {
+      "date": "2026-10-20",
+      "awake_windows": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ],
+      "blocked": [
+        [
+          "07:00",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "20:00"
+        ],
+        [
+          "21:30",
+          "23:00"
+        ]
+      ],
+      "reserve_minutes": 30,
+      "energy": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": "bio-learn",
+      "subject": "زیست یازدهم",
+      "grade": 11,
+      "topic": "لقمهٔ فرضی: یاخته‌های بافت عصبی",
+      "detail": "مطالعه و توضیح شکل از حافظه؛ صفحات پس از تطبیق چاپ",
+      "duration_minutes": 75,
+      "tests": 0,
+      "priority": 2,
+      "energy": 3,
+      "provenance": "PROPOSED",
+      "source": "M2 PDF p2; illustrative topic only"
+    },
+    {
+      "id": "bio-test",
+      "subject": "زیست یازدهم",
+      "grade": 11,
+      "topic": "همان لقمهٔ فرضی",
+      "detail": "بازیابی + تست آموزشی و تحلیل؛ ۵ دقیقه بازیابی و ۳٫۵ دقیقه حل و تحلیل هر تست",
+      "duration_minutes": 75,
+      "tests": 20,
+      "after": [
+        "bio-learn"
+      ],
+      "min_gap_days": 2,
+      "priority": 2,
+      "energy": 2,
+      "provenance": "PROPOSED",
+      "source": "M1 PDF p9; F3 calibrated rates are synthetic"
+    },
+    {
+      "id": "math-learn",
+      "subject": "ریاضی",
+      "grade": 11,
+      "topic": "نمونهٔ فرضی: تابع",
+      "detail": "درسنامه و حل مثال پایه",
+      "duration_minutes": 75,
+      "tests": 0,
+      "priority": 1,
+      "energy": 2,
+      "provenance": "PROPOSED"
+    },
+    {
+      "id": "math-test",
+      "subject": "ریاضی",
+      "grade": 11,
+      "topic": "همان مبحث تابع",
+      "detail": "حل و تحلیل بلافاصله بعد آموزش در صورت ظرفیت؛ تعداد پس از تشخیص سرعت",
+      "duration_minutes": 75,
+      "tests": null,
+      "after": [
+        "math-learn"
+      ],
+      "prefer_adjacent": true,
+      "priority": 1,
+      "energy": 2,
+      "provenance": "PROPOSED"
+    }
+  ]
+}
