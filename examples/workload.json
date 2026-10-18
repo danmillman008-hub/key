@@ -1,0 +1,25 @@
+{
+  "net_capacity_minutes": 600,
+  "reserve_minutes": 90,
+  "fixed_school_and_exam_minutes": 60,
+  "topics": [
+    {
+      "id": "bio-new",
+      "remaining_units": 9,
+      "learn_minutes_per_unit": 5,
+      "questions": 20,
+      "solve_minutes": 2,
+      "analysis_minutes": 1.5,
+      "review_minutes": 10
+    },
+    {
+      "id": "math-new",
+      "remaining_units": 6,
+      "learn_minutes_per_unit": 10,
+      "questions": 30,
+      "solve_minutes": 3,
+      "analysis_minutes": 1,
+      "review_minutes": 15
+    }
+  ]
+}

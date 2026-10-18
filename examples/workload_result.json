@@ -1,0 +1,26 @@
+{
+  "status": "volume_fits_calendar_unverified",
+  "available_minutes": 450,
+  "required_minutes": 320,
+  "deficit_minutes": 0,
+  "spare_minutes": 130,
+  "estimates": [
+    {
+      "id": "bio-new",
+      "learn_minutes": 45,
+      "practice_including_analysis_minutes": 70,
+      "review_minutes": 10,
+      "total_minutes": 125,
+      "learning_share_of_learn_practice": 0.391304347826087
+    },
+    {
+      "id": "math-new",
+      "learn_minutes": 60,
+      "practice_including_analysis_minutes": 120,
+      "review_minutes": 15,
+      "total_minutes": 195,
+      "learning_share_of_learn_practice": 0.3333333333333333
+    }
+  ],
+  "warning": "Do not proportionally shrink prerequisites, sleep or analysis. Select coherent topic packages; then check the calendar with planner.schedule."
+}

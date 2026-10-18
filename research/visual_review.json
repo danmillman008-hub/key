@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-18",
+  "note": "Explicit latest-pass review. Earlier selected-page reviews are documented in docs/EVIDENCE.md and REVERSE_ENGINEERING.md; no all-pages visual-review claim.",
+  "reviews": [
+    {
+      "file": "google_drive/@BankBookkonkor (15)_0001.pdf",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "method": "thumbnail_contact_sheet",
+      "scope": "Structure only, not every small word or handwritten number"
+    },
+    {
+      "file": "google_drive/@BankBookkonkor (7)_0001.pdf",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "method": "thumbnail_contact_sheet",
+      "scope": "Structure only, not every small word or handwritten number"
+    },
+    {
+      "file": "google_drive/@BankBookkonkor (15)_0001.pdf",
+      "pages": [
+        16
+      ],
+      "method": "full_page_render",
+      "scope": "75+15 / 90+15; daily planning and monthly reflection"
+    },
+    {
+      "file": "google_drive/@BankBookkonkor (7)_0001.pdf",
+      "pages": [
+        5
+      ],
+      "method": "full_page_render",
+      "scope": "Task state and transfer symbol meanings"
+    },
+    {
+      "file": "google_drive/12تجربی_برنامه_مطالعاتی_1_آبان_تا_15_آبان.pdf",
+      "pages": [
+        15
+      ],
+      "method": "full_page_render",
+      "scope": "Layout, legend, timing, mixed grades and selected task chains; not a certified transcription of every cell"
+    }
+  ]
+}

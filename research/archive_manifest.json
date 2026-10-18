@@ -1,0 +1,107 @@
+{
+  "source": "google_drive/@pdfkonkour.zip",
+  "sha256": "5416383b51c7ada49bb8dcee1de60b70022ea765a47fa08f8f29cf92239c2991",
+  "derived_pdf": "google_drive/archive/pdfkonkour-images.pdf",
+  "entries": [
+    {
+      "pdf_page": 1,
+      "archive_entry": "konkorilife hafte1.jpg",
+      "sha256": "603fa6c383bc03cbe89d43887fd65bef49f314978d924b163d6b8f12dc592018"
+    },
+    {
+      "pdf_page": 2,
+      "archive_entry": "konkorilife hafte10.jpg",
+      "sha256": "01580e850ec51d3c8453403f3b520d97e3c3a9489b222e8827ee9b88cda24ca6"
+    },
+    {
+      "pdf_page": 3,
+      "archive_entry": "konkorilife hafte11.jpg",
+      "sha256": "233b5ca5e5f5107e4488ae9074623d99d48722f0ed9c6386ac5cb6e745abbb8a"
+    },
+    {
+      "pdf_page": 4,
+      "archive_entry": "konkorilife hafte12.jpg",
+      "sha256": "4b9ad155e7e8af19ebac415afe97c982bad2a240748a14ed7d5e4ad0891a797b"
+    },
+    {
+      "pdf_page": 5,
+      "archive_entry": "konkorilife hafte13.jpg",
+      "sha256": "d2521eec32272710ee80ed252ae5eeb21637ccc3af477e2c61b111f03a9f9bfc"
+    },
+    {
+      "pdf_page": 6,
+      "archive_entry": "konkorilife hafte14.jpg",
+      "sha256": "df52f7bc6d7e30fc4a6d9e48fd7702e004912e2927f1bedd566f66bd48afbc0c"
+    },
+    {
+      "pdf_page": 7,
+      "archive_entry": "konkorilife hafte15.jpg",
+      "sha256": "d4c8b880aca0c44275284c01406531d172768884cdbd9c97db5ccae97a2dd090"
+    },
+    {
+      "pdf_page": 8,
+      "archive_entry": "konkorilife hafte16.jpg",
+      "sha256": "b10e5e6c88f76803e68f44628d5e93d14b3d07db1ba31e6a00ccb424764c1c44"
+    },
+    {
+      "pdf_page": 9,
+      "archive_entry": "konkorilife hafte17.jpg",
+      "sha256": "17688e3f66e5eaea083f71295fdd0e3c0e3f6afb80228d26805ef8f6f4306564"
+    },
+    {
+      "pdf_page": 10,
+      "archive_entry": "konkorilife hafte18.jpg",
+      "sha256": "82ac47faf3d83259fcd3df3201d1d3e149aa0e9488ddb01e2ebe6fed433bf30a"
+    },
+    {
+      "pdf_page": 11,
+      "archive_entry": "konkorilife hafte19.jpg",
+      "sha256": "5ad442df5482e6275a4f4e8182ec4d6b7c4e3eab5a84aa013b686a7f7e813dd1"
+    },
+    {
+      "pdf_page": 12,
+      "archive_entry": "konkorilife hafte2.jpg",
+      "sha256": "42aab10a43616292f6da12433152728c067a7a5848e771a4ed6634aebcff4e08"
+    },
+    {
+      "pdf_page": 13,
+      "archive_entry": "konkorilife hafte20.jpg",
+      "sha256": "9daebb9ab573bb1d392e190128c207e2d78774f80324885cadf6c4fc56458fbe"
+    },
+    {
+      "pdf_page": 14,
+      "archive_entry": "konkorilife hafte3.jpg",
+      "sha256": "9a6217c29d5eb3edcd31154e5391c97eb6a32fd9c95670f894193dbb774b27a4"
+    },
+    {
+      "pdf_page": 15,
+      "archive_entry": "konkorilife hafte4.jpg",
+      "sha256": "262248e21dd5063c9aac7b0cb57f901ca400820add70a51d17e8841124295f06"
+    },
+    {
+      "pdf_page": 16,
+      "archive_entry": "konkorilife hafte5.jpg",
+      "sha256": "91045b122af20eded31f203fe9249c6c1a9f4ddfa7f9ddcd685be0ab0f470896"
+    },
+    {
+      "pdf_page": 17,
+      "archive_entry": "konkorilife hafte6.jpg",
+      "sha256": "f6188bab55f3dcc3bffb2b448b9af44503d961e41df40f6c9d06f3aa2171ef1c"
+    },
+    {
+      "pdf_page": 18,
+      "archive_entry": "konkorilife hafte7.jpg",
+      "sha256": "c77ce411538cd9a694d7ab755e80d9aababbf85ee7bb88e4003876993d34751c"
+    },
+    {
+      "pdf_page": 19,
+      "archive_entry": "konkorilife hafte8.jpg",
+      "sha256": "be55232e421314b1d9f1e11272ab5669e5a56946de70d30f0283e3b062c3e6a3"
+    },
+    {
+      "pdf_page": 20,
+      "archive_entry": "konkorilife hafte9.jpg",
+      "sha256": "c832e98ce31ce4fef9b293cf2c9ec0b232c72763305714bf91418456f4eaaa61"
+    }
+  ]
+}

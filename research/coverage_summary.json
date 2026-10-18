@@ -1,0 +1,10 @@
+{
+  "files": 35,
+  "pages": 1015,
+  "ocr_target_pages": 511,
+  "ocr_status": {
+    "ocr_extracted_not_semantically_verified": 511
+  },
+  "visual_review_manifest": "research/visual_review.json",
+  "warning": "Automatic extraction, OCR and thumbnail generation are NOT full semantic or visual review."
+}
